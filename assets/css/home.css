@@ -223,6 +223,7 @@
     margin: 0 auto; }
   
   #colorlib-main {
+    padding-top: 3.2em;
     width: calc(100% - 300px);
     float: right;
     -webkit-transition: 0.5s;
@@ -397,8 +398,9 @@
       .colorlib-summary,
       .colorlib-experience,
       .colorlib-contact {
-        padding-top: 5em;
-        padding-bottom: 8em; } }
+        /* padding-top: 5em;
+        padding-bottom: 8em;  */
+      } }
   
   .author-img {
     background-size: cover;
