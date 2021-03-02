@@ -39,7 +39,7 @@
 			$(
 				'<div id="titleBar">' +
 					'<a href="#navPanel" class="toggle"></a>' +
-					'<span class="title">' + $('#logo').html() + '</span>' +
+					'<span class="title">' + 'TRAN THI TRANG' + '</span>' +
 				'</div>'
 			)
 				.appendTo($body);
