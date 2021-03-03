@@ -220,10 +220,11 @@
   
   .container-wrap {
     max-width: 1170px;
-    margin: 0 auto; }
+    margin: 0 auto;
+    margin-top: 3.4em; }
   
   #colorlib-main {
-    padding-top: 3.2em;
+    /* padding-top: 3.2em; */
     width: calc(100% - 300px);
     float: right;
     -webkit-transition: 0.5s;
@@ -1436,4 +1437,8 @@
   
   .js .animate-box {
     opacity: 0; }
+  
+    .colorlib-page{
+      padding:3.2em
+    }
 
